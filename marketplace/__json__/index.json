@@ -169,6 +169,19 @@
     "tags": ["dagster-supported"]
   },
   {
+    "id": "google-ads",
+    "status": "published",
+    "name": "Google Ads",
+    "title": "Dagster & Google Ads",
+    "excerpt": "Integrate Google Ads data and management into your Dagster pipelines.",
+    "logoFilename": "google_ads.svg",
+    "partnerlink": "https://ads.google.com/",
+    "categories": ["ETL", "Marketing"],
+    "enabledBy": [],
+    "enables": [],
+    "tags": ["dagster-supported", "marketing"]
+  },
+  {
     "id": "github",
     "status": "published",
     "name": "GitHub",
